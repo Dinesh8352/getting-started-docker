@@ -43,3 +43,7 @@ cd getting-started
 npm install
 node src/index.js
 ```
+If we encounter any error:
+```
+npm audit fix --force
+```
